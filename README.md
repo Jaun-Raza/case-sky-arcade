@@ -10,7 +10,8 @@ VITE_SKEY='sky-crack-23-13' <br />
 - npm install
 - npm run dev
 
-![image](https://github.com/Jaun-Raza/case-sky-arcade/assets/106108668/e5e82ae5-2617-4d83-bfcf-f72b2bf593dc)
+![image](https://github.com/Jaun-Raza/case-sky-arcade/assets/106108668/ce322100-4581-4aec-a796-b58159792fc5)
+
 
 # It is at src/RTK/ApiRequests.jsx
 # Put your hosted backend URL here (that is shown in image) also.
